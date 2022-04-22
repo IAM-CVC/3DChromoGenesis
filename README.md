@@ -1,0 +1,2 @@
+# 3DChromoGenesis
+Chromosome territoriality is not random along the cell cycle, and it is mainly governed by intrinsic chromosome factors and gene expression patterns. Such arrangement is related to the quality of the sperma and, thus, infertility. Up to date, only a few studies have explored the chromosome territoriality during meiosis, most of them limited to specific stages of the process.  In this study, we have analysed the chromosome positioning in murine spermatogenic cells using a three-dimensionally fluo.
